@@ -1,0 +1,7 @@
+{
+  "homeProperties": {
+    "dbConfig": {
+      "host": "prod-db-server"
+    }
+  }
+}
